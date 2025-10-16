@@ -1,0 +1,13 @@
+{
+  "name": "example-plugin",
+  "version": "1.0.0",
+  "description": "An example plugin demonstrating commands, agents, hooks, and MCP servers",
+  "author": {
+    "name": "nobodyiscertain",
+    "email": "hey@nobodyiscertain.com"
+  },
+  "homepage": "https://github.com/nobodyiscertain/claude-marketplace",
+  "repository": "https://github.com/nobodyiscertain/claude-marketplace",
+  "license": "MIT",
+  "keywords": ["example", "template", "starter"]
+}
