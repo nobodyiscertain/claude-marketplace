@@ -1,0 +1,14 @@
+{
+  "hooks": [
+    {
+      "event": "PreToolUse",
+      "command": "echo 'About to use tool: ${TOOL_NAME}'",
+      "description": "Log before tool execution"
+    },
+    {
+      "event": "PostToolUse",
+      "command": "echo 'Finished using tool: ${TOOL_NAME}'",
+      "description": "Log after tool execution"
+    }
+  ]
+}
