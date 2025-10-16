@@ -1,0 +1,21 @@
+{
+  "name": "claude-marketplace",
+  "owner": {
+    "name": "nobodyiscertain",
+    "email": "hey@nobodyiscertain.com"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "An example plugin demonstrating commands, agents, hooks, and MCP servers",
+      "version": "1.0.0",
+      "author": "nobodyiscertain",
+      "homepage": "https://github.com/nobodyiscertain/claude-marketplace",
+      "repository": "https://github.com/nobodyiscertain/claude-marketplace",
+      "license": "MIT",
+      "keywords": ["example", "template", "starter"],
+      "category": "productivity"
+    }
+  ]
+}
